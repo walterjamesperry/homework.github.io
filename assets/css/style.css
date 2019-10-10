@@ -1,0 +1,39 @@
+body{
+    font-size: 16px;
+}
+#mynamebox{
+    background-color: #339999;
+    width: 200px;
+    padding: 4px 15px;
+}
+#mynametext{
+    color: #ffffff;
+    text-align: center;
+}
+/* unvisited link */
+a:link {
+    color: gray;
+    text-decoration: none;
+    padding: 0px 10px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+    text-decoration: none;
+    padding: 0px 10px;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #339999;
+    text-decoration: none;
+    padding: 0px 10px;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #339999;
+    text-decoration: none;
+    padding: 0px 10px;
+  }
