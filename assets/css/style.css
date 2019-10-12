@@ -93,3 +93,9 @@ a:link {
   hr{
       border: 1px solid lightgrey;
   }
+  input[type=text]{
+    width: 100%;
+  }
+  textarea{
+    width: 100%;
+  }
